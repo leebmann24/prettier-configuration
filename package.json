@@ -1,8 +1,17 @@
 {
-  "name": "prettier-config",
+  "name": "@leebmann24/prettier-configuration",
   "version": "1.0.0",
-  "description": "Leebmann prettier configuration",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "description": "Leebmann Prettier Configuration",
+  "main": "index.json",
+  "author": "Bernhard Schönberger (bernhard.schoenberger@leebmann.de)",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leebmann24/prettier-configuration"
+  },
+  "homepage": "https://github.com/leebmann24/prettier-configuration"
 }
