@@ -1,16 +1,17 @@
 # Leebmann24
- NodeJS codestyle ruleset for _**prettier**_
+##### NodeJS codestyle ruleset for _**prettier**_
 <br />
 ### Installation
 
-if you are using npm:
+<br />
+##### if you are using npm:
 `npm install @leebmann24/prettier-configuration`
 
-if you are using yarn:
+##### if you are using yarn:<br />
 `yarn add @leebmann24/prettier-configuration`
 <br />
 
-add configuration to package.json:
+##### add configuration to package.json:
 ```javascript
 {
     ...
@@ -20,4 +21,4 @@ add configuration to package.json:
 }
 ```
 <br />
-###### done 👍
+ done 👍
